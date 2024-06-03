@@ -1,0 +1,22 @@
+.topbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  border-bottom: 1px solid #edf2f7;
+}
+
+.navContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.navContainerLg {
+  padding: 20px 0;
+}
+
+.logo {
+  font-size: 1.25rem;
+}
