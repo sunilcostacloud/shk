@@ -21,8 +21,8 @@ const MenuItemsList = () => {
   const Starters = [
     {
       imageSrc: "https://lh3.googleusercontent.com/p/AF1QipOrYdN0YFENxlto6lqgjiyGUbkJelv6A37JTBCL=s0",
-      title: "Veg Mixer",
-      content: "Tomato Salad & Carrot",
+      title: "Detergent Powder",
+      content: "",
       price: "5.99",
       rating: "5.0",
       reviews: "87",
@@ -30,8 +30,8 @@ const MenuItemsList = () => {
     },
     {
       imageSrc: "https://lh3.googleusercontent.com/p/AF1QipNOpR1iz9W2oLWLR9tNnp6nKaMpKNY1tS5O63lx=s0",
-      title: "Macaroni",
-      content: "Cheese Pizza",
+      title: "Detergent Powder",
+      content: "",
       price: "2.99",
       rating: "4.8",
       reviews: "32",
@@ -39,8 +39,8 @@ const MenuItemsList = () => {
     },
     {
       imageSrc: "https://lh3.googleusercontent.com/p/AF1QipMcIomXJSMZnbrx63p1HLkGtGrxZRbJgTnqdMYr=s0",
-      title: "Nelli",
-      content: "Hamburger & Fries",
+      title: "Liquid Dish Wash",
+      content: "",
       price: "7.99",
       rating: "4.9",
       reviews: "89",
@@ -48,8 +48,8 @@ const MenuItemsList = () => {
     },
     {
       imageSrc: "https://lh3.googleusercontent.com/p/AF1QipNYPlVTu9nGFPA6p_BrXy7gbNQJSlyyb8oLTW6Y=s0",
-      title: "Cajun Chicken",
-      content: "Roasted Chicken & Egg",
+      title: "Liquid Hand Wash",
+      content: "",
       price: "7.99",
       rating: "4.2",
       reviews: "19",
