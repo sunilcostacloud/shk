@@ -2,6 +2,8 @@
 
 import styles from "./Hero.module.css";
 import { motion } from "framer-motion";
+import Image from "next/image";
+import washingpowder from "../../assets/images/washingpowder.png"
 
 const Hero = () => {
   return (
@@ -25,11 +27,9 @@ const Hero = () => {
         transition={{ type: "tween", duration: 1, delay: 0.5 }} // Linear animation with delay for the fade effect
         className={styles.imageContainer}
       >
-        <img
-          src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=768&q=80"
-          alt="no image"
-          className={styles.image}
-        />
+
+        <Image src="https://lh3.googleusercontent.com/p/AF1QipOrYdN0YFENxlto6lqgjiyGUbkJelv6A37JTBCL=s0" alt="no image" width={400} height={300} className={styles.image} />
+
       </motion.div>
     </div>
   );

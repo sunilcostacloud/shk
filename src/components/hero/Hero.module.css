@@ -18,11 +18,14 @@
 
 .imageContainer {
   width: 48%;
+  display: flex;
+  justify-content: center;
 }
 
 .image {
-  width: 100%;
+  /* width: auto; */
   border-radius: 2rem;
+  /* height: 20rem; */
 }
 
 .heading {
