@@ -19,7 +19,7 @@
 }
 
 .mainCard {
-  max-width: 345px;
+  width: 100%;
   margin: 20px;
   background: #EDF2F7;
   cursor: pointer;
